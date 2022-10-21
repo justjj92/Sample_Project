@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.9.1)
+  - DRLSetListFM (0.1.4):
+    - Alamofire (~> 4.9.0)
+
+DEPENDENCIES:
+  - DRLSetListFM
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - DRLSetListFM
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  DRLSetListFM: b35e0546e540cb2c14b67faf2e49e9de3014c05f
+
+PODFILE CHECKSUM: b5968de29a5a4297a70c5b53df84dea9bf0a4851
+
+COCOAPODS: 1.11.3
